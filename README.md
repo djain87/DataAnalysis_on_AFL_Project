@@ -11,7 +11,9 @@ I got this dataset from Kaggle and it contains information such as players, game
 This Exploratory data analysis is divided into several stages:
  
 Data Preparing: Importing and reading data from data sources.
+
 Data Processing : Before working on any analysis or dataset, it is essential to ensure that dataset is clean and reliable. The data cleaning process involves removing duplicate values, handling missing values, identify outliers, correcting inconsistencies, and formatting the data for analysis. In this project, we carefully cleaned the dataset to ensure accuracy and integrity of our findings.
+
 Analyze : I have used python as a tool to analyse the dataset. I create compelling Visualizations using matplotlib and seaborn to share my findings and results in an appleaing way.
 
 Tables Used: 
