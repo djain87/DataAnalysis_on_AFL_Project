@@ -24,13 +24,21 @@ Players entity or table contains information for each individual AFL player, ide
 Stats entity or table contains information about game stats for each individual player,in every game. 
 
 Performed analysis on below problems:
+
 a.	Find average goals scored in Home matches for each team
+
 b.	Find average goals scored in Away matches for each team
+
 c.	Find the win rate for Home vs Away for each team
+
 d.	Which team won the maximum games back to back
+
 e.	What were the top 5 years with the most games held?
+
 i.	Based on the top years, which 3 venues had the most games held during this period? 
+
 f.	What were the bottom 5 years with the least games held?  
+
 g.	Does the distribution for the crowd in attendance follow a normal distribution? If not briefly describe the type of distribution. 
 
 
