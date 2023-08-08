@@ -18,7 +18,9 @@ Analyze : I have used python as a tool to analyse the dataset. I create compelli
 
 Tables Used: 
 Game entity or table contains information about match details for every AFL game from 2012 to 2021. Each match identified by a unique 'gameId'.
+
 Players entity or table contains information for each individual AFL player, identified by a unique playerId.
+
 Stats entity or table contains information about game stats for each individual player,in every game. 
 
 
