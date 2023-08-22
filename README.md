@@ -16,7 +16,7 @@ In this project, we carefully cleaned the dataset to ensure accuracy and integri
 Analyze : I have used python as a tool to analyse the dataset. I create compelling Visualizations using matplotlib and seaborn to share my findings and results in an appleaing way.
 
 # Problem Statement
-The goal of this project to perform indepth analysis of gaining valuable insights to predict performance, results and who the key players are.
+The goal of this project to perform in-depth analysis of gaining valuable insights to predict performance, results and who the key players are.
 
 # Task
 a.	Find average goals scored in Home matches for each team
